@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project2/static/css/main.fa6414a0.chunk.css",
+    "main.js": "/project2/static/js/main.590261ad.chunk.js",
+    "main.js.map": "/project2/static/js/main.590261ad.chunk.js.map",
+    "runtime-main.js": "/project2/static/js/runtime-main.5eb2a9c0.js",
+    "runtime-main.js.map": "/project2/static/js/runtime-main.5eb2a9c0.js.map",
+    "static/css/2.5fa3b6b1.chunk.css": "/project2/static/css/2.5fa3b6b1.chunk.css",
+    "static/js/2.31ca49c2.chunk.js": "/project2/static/js/2.31ca49c2.chunk.js",
+    "static/js/2.31ca49c2.chunk.js.map": "/project2/static/js/2.31ca49c2.chunk.js.map",
+    "index.html": "/project2/index.html",
+    "static/css/2.5fa3b6b1.chunk.css.map": "/project2/static/css/2.5fa3b6b1.chunk.css.map",
+    "static/css/main.fa6414a0.chunk.css.map": "/project2/static/css/main.fa6414a0.chunk.css.map",
+    "static/js/2.31ca49c2.chunk.js.LICENSE.txt": "/project2/static/js/2.31ca49c2.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.css": "/project2/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb2a9c0.js",
+    "static/css/2.5fa3b6b1.chunk.css",
+    "static/js/2.31ca49c2.chunk.js",
+    "static/css/main.fa6414a0.chunk.css",
+    "static/js/main.590261ad.chunk.js"
+  ]
+}
